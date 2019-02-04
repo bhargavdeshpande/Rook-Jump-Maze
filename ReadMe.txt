@@ -2,6 +2,7 @@
 *********************************************************
 Bhargav Deshpande
 
+Solution Implemented with Algorithms - DFS, BFS, AStar, BestFirst
 **********************************************************
 
 Instruction to run:
